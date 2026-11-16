@@ -1,8 +1,0 @@
-"use strict";
-let a = 10;
-let b = 12;
-console.log(a + b);
-console.log(a - b);
-console.log(a * b);
-console.log(a / b);
-console.log(10 + "5");
